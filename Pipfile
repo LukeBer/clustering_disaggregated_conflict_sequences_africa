@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "==2.3.0"
+ipykernel = "==6.29.5"
+dash = "==3.0.4"
+plotly = "==6.1.2"
+matplotlib = "==3.10.3"
+statsmodels = "==0.14.4"
+seaborn = "==0.13.2"
+path = "*"
+scikit-learn = "*"
+rapidfuzz = "*"
+hdbscan = "*"
+nbformat = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+igraph = "*"
+umap-learn = "*"
+st-dbscan = "*"
+osmnx = "*"
+networkx = "*"
+shapely = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

@@ -1,0 +1,16 @@
+pandas==2.3.0
+numpy==2.2.6
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.1.2
+dash==3.0.4
+statsmodels==0.14.4
+RapidFuzz==3.13.0
+networkx==3.5
+scikit-learn==1.6.1
+torch==2.7.1
+hdbscan==0.8.40
+umap-learn==0.5.9.post2
+geopandas==1.1.1
+contextily==1.6.2
+tslearn==0.6.4
