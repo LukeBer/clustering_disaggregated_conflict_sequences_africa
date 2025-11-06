@@ -17,7 +17,13 @@ the Armed Conflict Location and Event Data Project (ACLED) and the Uppsala Confl
 Data Program (UCDP). Both are event-based datasets, meaning that the unit of
 observation is an individual incident of political violence or disorder. Each event specifies the actors involved, the type of incident, the time and place of occurrence, as well as additional details such as fatalities and a note.
 
-The `data_loder.py` functions load and prepare the data. The data should be stored under `data/raw_data`. A data exploration analysis can be found under `notebooks/EDA`.
+We **do not redistribute** the datasets in this repository.  
+You must **download them yourself** and accept the respective terms of use:
+- ACLED typically requires registration and acceptance of a user agreement.
+- UCDP data is available under its own terms; please review before use.
+
+The `data_loder.py` functions load and prepare the data. The data should be stored under `data/raw_data` and has to be loaded from the according. 
+A data exploration analysis can be found under `notebooks/EDA`.
 
 # Build Sequences
 For all seuqneces two thresholds are set:
