@@ -1,6 +1,8 @@
 # Conflict Event Sequences (Africa)
 
-This repository introduces **four approaches to cluster conflict events with the goal of building conflict event sequences**. For each approach a class was defined, allowing to build sequences over time with different indicees and metrices. Additionally each class includes plotting and summary options to describe the sequences. 
+This repository is a collaborative work by **Sarah Deubner** and **Luke-Liam Bergmeier**.
+
+In this repository we introduces **four approaches to cluster conflict events with the goal of building conflict event sequences**. For each approach a class was defined, allowing to build sequences over time with different indicees and metrices. Additionally each class includes plotting and summary options to describe the sequences. 
 
 Further more, there are options to compare different seuqneces using the compare sequence cluster class. 
 
