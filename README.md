@@ -1,4 +1,4 @@
-# Conflict Event Sequences (Africa)
+# Clustering Disaggregated Conflict Sequences in Africa
 
 This repository is a collaborative work by **Sarah Deubner** and **Luke-Liam Bergmeier**.
 
